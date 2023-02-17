@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **vishwajeet7381/vishwajeet7381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
